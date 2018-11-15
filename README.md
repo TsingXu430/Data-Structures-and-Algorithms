@@ -1,2 +1,4 @@
-# Data-Structures-and-Algorithms
+
 数据结构与算法的练习
+
+1. 通过单链表或数组模拟栈和队列
